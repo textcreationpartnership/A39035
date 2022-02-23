@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exclamation against the whore of Babylon the mother of harlots setting forth the true and false church with their heads, members, parts, and properties, as any indifferent reader, Protestant or papist, may judge which is the one, which is the other : who are Christs who be antichrists, who be true Christians and who be antichristians : as the difference and also the opposition now here following fully declareth.</title>
+            <title>Bible. N.T. Revelation. English. Selections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39035</idno>
+            <idno type="STC">Wing E3845</idno>
+            <idno type="STC">ESTC R26704</idno>
+            <idno type="EEBO-CITATION">09523552</idno>
+            <idno type="OCLC">ocm 09523552</idno>
+            <idno type="VID">43478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1331:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exclamation against the whore of Babylon the mother of harlots setting forth the true and false church with their heads, members, parts, and properties, as any indifferent reader, Protestant or papist, may judge which is the one, which is the other : who are Christs who be antichrists, who be true Christians and who be antichristians : as the difference and also the opposition now here following fully declareth.</title>
+                  <title>Bible. N.T. Revelation. English. Selections.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text consists of Bible passages relating to "the true church" and "the false church" in parallel columns.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Bible. --  N.T. --  Revelation. --  English. --  Selections.</term>
+               <term>Church --  Marks.</term>
+               <term>Church --  Apostolicity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43478:1"/>
+            <pb facs="tcp:43478:1"/>
+            <p>AN EXCLAMATION AGAINST THE Whore of Babylon THE Mother of Harlots.</p>
+            <p>Setting forth the True and Falſe Church, with their Heads, Members, Parts, and Properties, as any indifferent Reader, <hi>Proteſtant</hi> or <hi>Papiſt,</hi> may judge which is the one which is the other; who are <hi>Chriſts</hi> who be <hi>Antichriſts,</hi> who be True <hi>Chriſtians</hi> who be <hi>Antichriſtians;</hi> as the Difference and alſo the Oppoſition, now here following, fully declareth.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. G.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43478:2"/>
+            <pb n="1" facs="tcp:43478:2"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" cols="2">An Exclamanion againſt the Whore of <hi>Babylon</hi> the Mother of Harlots.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Chriſt.</cell>
+                     <cell role="label">Antichriſt.</cell>
+                  </row>
+                  <row>
+                     <cell>THe King of Saints: chap. 15.3.</cell>
+                     <cell>The King of Locuſts, chap. <hi>9.11.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The faithful and true witneſs, chap. 3.14. and 1.5. and 19.11.</cell>
+                     <cell>The falſe Prophet deceiving, chap. <hi>19.20.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Lamb, chap. 14.1. chap. 5.14.</cell>
+                     <cell>A Beaſt like a Lamb, having two borns, but ſpeaking as a Dragon, chap. <hi>13.11.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Angel coming down from Heaven; cap. 10.1. and the bright morning-ſtar, chap. 22.16.</cell>
+                     <cell>The Angel of the bottomleſs pit, chap. <hi>9.11.</hi> the beaſt aſcending from thence, chap. <hi>11.7.</hi> out of the earth, chap. <hi>13.9.</hi> and the Star fallen from Heaven. chap. <hi>9.2.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Redeemer, chap. 5.9.</cell>
+                     <cell>The Deſtroyer, chap. <hi>9.11.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Upon his Head a Crown of Gold, chap. 14.14.</cell>
+                     <cell>
+                        <g ref="char:V">Ʋ</g>pon his Head the Name of Blaſphemy, chap. <hi>13.1.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He hath the Key of <hi>David,</hi> chap. 3.7.</cell>
+                     <cell>This, the Key of the bottomleſs Pit, chap. <hi>9.1.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He ſitteth in his Fathers Throne, chap. 3.21.</cell>
+                     <cell>This in the Dragons ſeat and thron, cap. <hi>13.2.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He wareth in defence of his Saints, chap. 12. and 17.</cell>
+                     <cell>This maketh war againſt the Saints, chap. <hi>11.7.</hi> and <hi>13.7.</hi> and <hi>19.19.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="2" facs="tcp:43478:3"/> He winneth people to him only, by the preaching of the Word, chap. 10.11. and ſubdueth <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hem by the Sword, which cometh out of his mouth, chap. 19.15, 21.</cell>
+                     <cell>This by falſe Miracles, by force and f<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ar of death, if they will not ſub<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t themſelves to his will; chap. <hi>13.13 14, 15, 16.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chriſt permite<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h men to live, and to buy, and ſell, though they do not yield to him.</cell>
+                     <cell>This counterfeit Lamb will let no man buy nor ſell, except him that h<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th the mark, the name of the beaſt or his number, chap. <hi>13.17.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chriſt fitteth his Servants to preach, and commandeth them to do ſo, chap. 10.11.</cell>
+                     <cell>This Beaſt <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lloweth of no Preacher of Gods Word, but riſeth up and murdereth them, chap. <hi>11.7.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chriſt the Lamb hath his Wife, chap. 19.7.</cell>
+                     <cell>This Beaſt and falſe Prophet his Whore, chap. <hi>17.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Chriſt was, is, and ſhall be, chap. 1.8 and 11.17. and reign<g ref="char:EOLhyphen"/>eth for ever, chap. 11.15.</cell>
+                     <cell>This Beaſt w<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, is not, and yet is, and ſhall have power <hi>42</hi> mouths, and go into deſtruction, chap. <hi>13 5.</hi> and <hi>17.8, 11.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">The true Church of Chriſt.</cell>
+                     <cell role="label">The falſe Church of <hi>Antichriſt.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This is the holy beloved City, <hi>New Jeruſalem,</hi> chap. 20.9. and 21.2.</cell>
+                     <cell>This that great City, chap. <hi>14.8.</hi> and <hi>17.18.</hi> the City of the Nations, cha<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>16.19.</hi> great <hi>Babylon,</hi> cap. <hi>18.2.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This the Tabernacle of God his Habitation, chap. 21.3.</cell>
+                     <cell>This the habitation of Devils, the hold of every foul ſpirit, and the cage of every unclean and hateful bird, chap. <hi>18.2.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This the Lambs Wife, chap. 19.7. and 21.9.</cell>
+                     <cell>This Antichriſts Whore, chap. <hi>17.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This the Temple, cap. 11.</cell>
+                     <cell>This the Out-court, chap. <hi>11.2.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This the Woman clothed with the Sun, and the Moon under her feet, and upon her head a Crown of 12 Stars: chap. 12.1.</cell>
+                     <cell>This the Woman arraied in purple and ſcarlet colour and decked with gold and precious stones and pearle; under her the ſcarlet coloured beaſt, and upon her forehead, a name written <hi>Myſtery, Babylon,</hi> &amp;c. chap. <hi>17, 3, 4, 5.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="3" facs="tcp:43478:3"/> This troden under foot, chap. 11.2. eſcapeth into the wilder<g ref="char:EOLhyphen"/>neſs, and there is hidden for a ſpace and nouriſhed 1260 dayes, chap. 12.6.14.</cell>
+                     <cell>This treadeth upon the Church, chap <hi>11.</hi> ſitteth as a Queen glorifying her ſelf, and living deliciouſly, chap. <hi>18.7.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This is hated of the Dragon, chap. 12. and 20.9. perſecuted by the beaſt and falſe prophet, chap. 11.7. and 13.7. and 19.19. and againſt whom the Kings of the earth riſe up, chap. 17.14. and 19.19.</cell>
+                     <cell>This favoured to the utmoſt by the Dragon ch. <hi>13.2.</hi> born up by the beaſt, chap. <hi>17.3, 7.</hi> aſſisted by the Kings of the earth, chap. <hi>17.14.</hi> and <hi>19.19.</hi> who have comm<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tted forni<g ref="char:EOLhyphen"/>cation, chap <hi>17.2.</hi> and lived deliciouſly with her, cap. <hi>18.9</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This hath in the hand of the Angel, the little book for to teach the people, chap. 10.</cell>
+                     <cell>This hath in her hand a gold<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n cup, full of abominations, and filthineſs of her fornication, chap. <hi>17.4.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This is led by Chriſt to the li<g ref="char:EOLhyphen"/>ving fountains of waters, chap. 7.17. even the waters of life to drink thereof, chap. 21.6. and 22.17.</cell>
+                     <cell>This woman is drunk with the blood of the Saints and the blood of the Martyrs of Jeſus, chap. <hi>17.6.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This hath the Lamb to inſtruct all hers, chap. 5.</cell>
+                     <cell>This hath the falſe prophet work<g ref="char:EOLhyphen"/>ing miracles to deceive all hers, chap. <hi>19.20.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This hath onely God himſelf and Chriſt in the middeſt, ruling her, chap. 1.1 and 22.3.</cell>
+                     <cell>This hath Antichrist, the King of the Locuſts, whoſe harlot ſhee is, to rule over her, chap. <hi>9.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>This hath the approbation of God, and the Kings of the earth ſhall bring their glory and honour to her, cap. 21.24.</cell>
+                     <cell>This hath damnation from God, chap <hi>17.1.</hi> and the Kings at length ſhall hate this whore, as ſhee deſerves, and burn her with fire, chap. <hi>17.16.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">The Servants of Chriſt.</cell>
+                     <cell role="label">The Servants of Antichriſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Theſe are Angels and Stars, cap. 1. and 2. and 3.</cell>
+                     <cell>Theſe are Locuſts, frogs, and un<g ref="char:EOLhyphen"/>clean ſpirits of devils, chap. <hi>9.</hi> and <hi>16.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe are Prophets, and do preach the Goſpel, chap. 11. and 14.6.</cell>
+                     <cell>Theſe preach not, or preach mens precepts, and do torment men, chap. <hi>9.</hi> and work deceitful miracles, to de<g ref="char:EOLhyphen"/>ceive them that dwell on the earth, chap. <hi>13.13, 14.</hi> and <hi>19.20.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="4" facs="tcp:43478:4"/> Theſe come out of the Temple, and are ſent by Chriſt. chap. 14. and 10, 11. to whom hee giveth pow<g ref="char:EOLhyphen"/>er, chap. 11.3.</cell>
+                     <cell>Theſe come out of the ſmoak of the bottomleſs pit, chap. <hi>9.</hi> and are ſent by the Dragon, beast, and falſe prophet, cap. <hi>16.</hi> from whom they receive power, chap. <hi>9.3.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe go forth with the everla<g ref="char:EOLhyphen"/>ſting Goſpel, exhorting men to fear God, and to worſhip him, chap. 14.6.</cell>
+                     <cell>Theſe go forth, without the Goſpel, to hurt, chap. <hi>9.3, 10.</hi> and to incite the Kings of the earth unto miſchief, againſt Christ his people, cap. <hi>16.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe preach againſt <hi>Babylon,</hi> and proclaim her fall, and do threaten vengeance againſt ſuch as do ſubject themſelves thereto, chap. 14.8, 9, 10, 11.</cell>
+                     <cell>Theſe, out of the mouth of the Dragon, Beaſt, and falſe Prophet, do uſe all their deceitful working of mi<g ref="char:EOLhyphen"/>racles, to procure helps, for the up<g ref="char:EOLhyphen"/>holding the ſame, chap. <hi>16.10, 13, 14.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe have been killed only for preaching Gods Word, and for the teſtimony of Jeſus, chap. 14.6. and chap. 11.7. and 20.4.</cell>
+                     <cell>Theſe are put to death for the blood they ſhed, chap. <hi>16.6.</hi> and for their damnable treacheries and treaſons.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Chriſtians.</cell>
+                     <cell role="label">Antichriſtians.</cell>
+                  </row>
+                  <row>
+                     <cell>Theſe are they that dwell in Heaven, chap. 13.6.</cell>
+                     <cell>Theſe are the inhabitants of the earth, chap. <hi>13.8.</hi> and <hi>11.10.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe do worſhip God, chap. 4. and 5. and 11.16. and 22.3.</cell>
+                     <cell>Theſe worſhip the Dragon and Beaſt, chap. <hi>13.4.18.12.</hi> Devils and Idols of Gold and Silver, and Braſs, and tone, and of Wood, chap. <hi>9.20.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe are without guil<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in their mouths, chap. 14.5.</cell>
+                     <cell>Theſe be guileful equivocators, and makers of lies, chap <hi>22.</hi> as their pra<g ref="char:EOLhyphen"/>ctice procla<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ms to the world.</cell>
+                  </row>
+                  <row>
+                     <cell>Theſe are not defilled with Wo<g ref="char:EOLhyphen"/>men, but are Virgins, chap. 14.4.</cell>
+                     <cell>Theſe are guilty of fornication ſpi<g ref="char:EOLhyphen"/>ritual; chap. <hi>17.2.</hi> and corporal, chap. <hi>9.21.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe do follow the Command<g ref="char:EOLhyphen"/>ments of God, and do keep the faith of Jeſus, chap. 14.12.</cell>
+                     <cell>Theſe do what the Beaſt and falſe Prophet will have them to do, by whoſe falſe miracles they are deceived, chap. <hi>13.</hi> and <hi>19.20.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="5" facs="tcp:43478:4"/> Theſe reverence the voice of Chriſts Miniſters, and openly ſhew it, cap. 4.9, 10. and 5.14.</cell>
+                     <cell>Theſe hold them to be a torment to them, and rejoyce and are merry, if the beaſt kill them, chap. <hi>11.10.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe rejoyce, that Chriſt ta<g ref="char:EOLhyphen"/>keth to him his power and reign<g ref="char:EOLhyphen"/>eth, chap. 1.16, 17.</cell>
+                     <cell>Theſe like Heathen, Nations, and Gentiles, chap. <hi>11.2.</hi> are angry there<g ref="char:EOLhyphen"/>ar, chap. <hi>11.18.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe are written in the Lambs Book of Life, cap. 21.27.</cell>
+                     <cell>The names of theſe are not writ<g ref="char:EOLhyphen"/>ten in the Lambs Book of Life, chap. <hi>13.8.</hi> and <hi>17.8.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe get the victory over the beaſt, and he cannot make them to take his marke, or worſhip his image; but do get out from the number of his name, chap. 15.2.</cell>
+                     <cell>All theſe both ſmall and great, rich and poor, free and bond, he cau<g ref="char:EOLhyphen"/>ſeth to receive his marke in their right hand, or fore-heads; chap. <hi>13.16.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe have the Lord and his works in admiration, chap. 4.11. and 5.12, 13. and 15.3, 4.</cell>
+                     <cell>Theſe have the beaſt and his power in admiration, cap. <hi>13, 3.4.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe are content to be marty<g ref="char:EOLhyphen"/>red, and to be ſlain for the Word of God, rather than they will wor<g ref="char:EOLhyphen"/>ſhip the beaſts image, <hi>&amp;c.</hi> cap. 20.4.</cell>
+                     <cell>Theſe do ſhed the blood of the Saints and Prophets, chap. <hi>16.6.</hi> for teſtifying the truth, chap. <hi>11.7.</hi> and for notworſhiping the Beaſt, and his Image, chap. <hi>13.15.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe follow the Lamb, chap. 14.</cell>
+                     <cell>Theſe wonder after the Beaſt, chap. <hi>13.3.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe have his fathers name written in their fore-heads, chap. 14.1. and 7.3, 4. and 22.</cell>
+                     <cell>Theſe have the mark of the Beaſt in their Hand or Fore-heads, chap. <hi>13.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe have been by the beaſt and his inſtruments, afflicted and brought down, cap. 11.7. and 13.7. but now are prevailing, and ſhall be glorious, chap. 7.9-14. and 11.11, 12, 16.18. and 14.6-20. and 15.2. and 16.</cell>
+                     <cell>Theſe now are plagued, chap. <hi>16.2.</hi> and rewarded for their cruelty, ver. <hi>6.</hi> their kingdom groweth dark, ver. <hi>10.</hi> and ſhall come to deſtruction, chap. <hi>18.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe will rejoyce, and ſo ought to do, at the ruin of <hi>Babylon,</hi> chap. 18.20. and 19.1.2-7.</cell>
+                     <cell>Theſe do rage and blaſpheme at <hi>Babylons</hi> d<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cay, chap. <hi>16.10, 11.</hi> and ſhall at length bewail and la<g ref="char:EOLhyphen"/>ment her final diſtruct on, chap. <hi>18.9.16.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="6" facs="tcp:43478:5"/> Theſe with the names in their Fore-heads, chap. 14. are ſealed of God for aſſurance of their ſafety, chap. 7.11</cell>
+                     <cell>Theſe with the mark and name of the Beaſt, chap. <hi>13.</hi> are curſed of God, and unl<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſs they turn, are ſure to be damned, chap. <hi>14.9-11.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Here behold now and ſee, all theſe particulars ſet forth to the open view of every mans eye; let us, which have hap<g ref="char:EOLhyphen"/>pily eſcaped, and thoſe that are yet among them, which in honeſt ſimplicity of heart miſtake things, learn hereby to di<g ref="char:EOLhyphen"/>ſcern between Chriſt and Antichriſt, the true Spouſe, and the filthy Whore; the faithful ſervants of Chriſt and the de<g ref="char:EOLhyphen"/>viliſh inſtruments of Antichriſt; between true Chriſtians in name and deed, and Chriſtians only in name, but Antichri<g ref="char:EOLhyphen"/>ſtians in deed; ſo ſhall we ſtill-ſtand in the way of life, and they (poor ſouls) eſcape the ſnares of death; even ſo Lord Jeſus, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43478:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
